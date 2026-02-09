@@ -9,7 +9,7 @@ A high-performance **Full-Stack Student Management System** built using **Spring
 ## 🛠️ Technology Stack
 * **Backend:** Java 17, Spring Boot 3.x
 * **Persistence:** Spring Data JPA (Hibernate)
-* **Database:** SQL (MySQL/PostgreSQL)
+* **Database:** SQL (MySQL)
 * **Frontend:** HTML5, CSS3, JavaScript (Fetch API)
 * **Developer Tools:** Lombok, Maven
 
