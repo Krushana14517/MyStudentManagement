@@ -35,12 +35,5 @@ The `StudentEntity` uses **Lombok** for clean, boilerplate-free code:
 * `age`: Student Age
 
 ---
-
-## 🚀 Setup & Installation
-1. **Clone:** `git clone https://github.com/your-username/mystudentmanagement.git`
-2. **Database:** Update `src/main/resources/application.properties` with your SQL credentials.
-3. **Run:** Execute `mvn spring-boot:run` in your terminal.
-4. **Access:** Navigate to `http://localhost:8080`.
-
----
-**Author:** [Your Name]
+**Author:** 
+Krushna Mahajan
